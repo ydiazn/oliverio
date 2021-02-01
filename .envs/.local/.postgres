@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=oliverio
+POSTGRES_USER=GESloLdMPomwfHoojSnEOVXwOenIzuuv
+POSTGRES_PASSWORD=awI57UB1j5BRelfvJKyqZLMQE9RrbvFqyGgAONTU6qgYA0TH7CUsvzTxVy9tXadh
